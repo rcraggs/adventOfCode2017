@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/7.go" description="&#10;&#9;&#9;rows := strings.Split(in, &quot;\n&quot;)&#10;&#9;&#9;re, _ := rege..." line="1526" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="52920c3d-319b-4664-972f-7cbb1058b453" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/5.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/8.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/9.go" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,47 +27,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AoC1.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC1.go">
+      <file leaf-file-name="7.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AoC1-2.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC1-2.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="92" lean-forward="false" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+            <state relative-caret-position="23025">
+              <caret line="1535" column="0" lean-forward="false" selection-start-line="1535" selection-start-column="0" selection-end-line="1538" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.go">
+      <file leaf-file-name="13.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="110" column="60" lean-forward="true" selection-start-line="110" selection-start-column="60" selection-end-line="110" selection-end-column="60" />
               <folding>
-                <element signature="e#14#90#0" expanded="true" />
+                <element signature="e#14#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="e#14#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#14#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +82,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hwdfkq</find>
+      <find>skhjb</find>
+      <find>pcfilur</find>
+      <find>uhcrfl</find>
+      <find>regex</find>
+      <find>dea</find>
+      <find>6828</find>
+      <find>ufk:826</find>
+      <find>struc</find>
+      <find>strc</find>
+      <find>struct</find>
+      <find>*</find>
+      <find>time</find>
+    </findStrings>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.8.3/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +111,17 @@
         <option value="$PROJECT_DIR$/AoC1-2.go" />
         <option value="$PROJECT_DIR$/data/2" />
         <option value="$PROJECT_DIR$/2.go" />
+        <option value="$PROJECT_DIR$/3.go" />
+        <option value="$PROJECT_DIR$/4.go" />
+        <option value="$PROJECT_DIR$/5.go" />
+        <option value="$PROJECT_DIR$/6.go" />
+        <option value="$PROJECT_DIR$/7.go" />
+        <option value="$PROJECT_DIR$/8.go" />
+        <option value="$PROJECT_DIR$/9.go" />
+        <option value="$PROJECT_DIR$/11.go" />
+        <option value="$PROJECT_DIR$/12.go" />
+        <option value="$PROJECT_DIR$/13.go" />
+        <option value="$PROJECT_DIR$/10.go" />
       </list>
     </option>
   </component>
@@ -94,7 +135,7 @@
     <option name="x" value="4" />
     <option name="y" value="22" />
     <option name="width" value="1436" />
-    <option name="height" value="439" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -111,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,7 +170,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,41 +199,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 2.go">
-    <configuration name="go build 2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+  <component name="RunManager" selected="Go Build.go build 10.go">
+    <configuration name="go build 10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="adventOfCode2017" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/2.go" />
+      <filePath value="$PROJECT_DIR$/10.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build AoC1-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build 11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="adventOfCode2017" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/AoC1-2.go" />
+      <filePath value="$PROJECT_DIR$/11.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build AoC1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build 12.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="adventOfCode2017" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/AoC1.go" />
+      <filePath value="$PROJECT_DIR$/12.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build AoC1.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build AoC1-2.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build 2.go" />
+    <configuration name="go build 13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="adventOfCode2017" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/13.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build 9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="adventOfCode2017" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/9.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build 9.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build 10.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build 11.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build 12.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build 13.go" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build 2.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build AoC1-2.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build AoC1.go" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build 10.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build 13.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build 12.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build 11.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build 9.go" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +261,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1436" height="878" extended-state="6" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14206128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -208,11 +269,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33291924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39503106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -234,18 +295,282 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/3.go</url>
+          <line>139</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/6.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/12.go</url>
+          <line>2036</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/10.go</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="64" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>(j+length) % len(pos)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>string(xx) + &quot;,&quot; + string(yy)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>nodes[childrenNames[i]]</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>valuesMap[&quot;0,0&quot;]</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>valuesMap[ss]</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strconv.Itoa(1)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strconv.Itoa(x)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strconv.Itoa(x) + strconv.Itoa(y)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>string(x)+string(y)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23025">
+          <caret line="1535" column="0" lean-forward="false" selection-start-line="1535" selection-start-column="0" selection-end-line="1538" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22815">
+          <caret line="1526" column="0" lean-forward="false" selection-start-line="1526" selection-start-column="0" selection-end-line="1542" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16230">
+          <caret line="1087" column="0" lean-forward="false" selection-start-line="1087" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30360">
+          <caret line="2024" column="0" lean-forward="false" selection-start-line="2024" selection-start-column="0" selection-end-line="2024" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22815">
+          <caret line="1526" column="0" lean-forward="false" selection-start-line="1526" selection-start-column="0" selection-end-line="1542" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16230">
+          <caret line="1087" column="0" lean-forward="false" selection-start-line="1087" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
+          <folding>
+            <element signature="e#14#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16230">
+          <caret line="1087" column="0" lean-forward="true" selection-start-line="1087" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
+          <folding>
+            <element signature="e#14#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AoC1.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -253,9 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -263,44 +585,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2014" lean-forward="false" selection-start-line="0" selection-start-column="2014" selection-end-line="0" selection-end-column="2014" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/2">
+    <entry file="file://$PROJECT_DIR$/data/2" />
+    <entry file="file://$PROJECT_DIR$/AoC1-2.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="92" lean-forward="false" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AoC1.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8.3/libexec/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="567" column="0" lean-forward="false" selection-start-line="567" selection-start-column="0" selection-end-line="567" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8.3/libexec/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="146" column="28" lean-forward="true" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="551" column="45" lean-forward="false" selection-start-line="551" selection-start-column="22" selection-end-line="551" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
           <folding>
-            <element signature="e#14#51#0" expanded="true" />
+            <element signature="e#14#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC1-2.go">
+    <entry file="file://$PROJECT_DIR$/3.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="36" />
           <folding>
-            <element signature="e#14#51#0" expanded="true" />
+            <element signature="e#14#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="123">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8.3/libexec/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="2196" column="0" lean-forward="false" selection-start-line="2196" selection-start-column="0" selection-end-line="2196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="e#14#90#0" expanded="true" />
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1073" column="31" lean-forward="true" selection-start-line="1073" selection-start-column="31" selection-end-line="1073" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23025">
+          <caret line="1535" column="0" lean-forward="false" selection-start-line="1535" selection-start-column="0" selection-end-line="1538" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="2062" column="22" lean-forward="true" selection-start-line="2062" selection-start-column="22" selection-end-line="2062" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="110" column="60" lean-forward="true" selection-start-line="110" selection-start-column="60" selection-end-line="110" selection-end-column="60" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
